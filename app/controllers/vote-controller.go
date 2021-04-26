@@ -2,7 +2,7 @@ package controllers
 
 import (
 	"fmt"
-	. "vote-service/models"
+	"github.com/cahyo0118/votever-vote-service/models"
 
 	"github.com/revel/revel"
 )

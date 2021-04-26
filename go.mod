@@ -1,4 +1,4 @@
-module vote-service
+module github.com/cahyo0118/votever-vote-service
 
 go 1.16
 
@@ -12,4 +12,5 @@ require (
 	github.com/revel/cmd v1.0.3 // indirect
 	github.com/revel/modules v1.0.0
 	github.com/revel/revel v1.0.0
+	github.com/cahyo0118/votever-vote-service v1.0.0
 )
